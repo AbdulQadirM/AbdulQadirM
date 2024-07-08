@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and AI Engineer
 ------------------------------
 
-Combining my skills in data science, NLP, computer vision, and LLMs, I help organizations extract valuable insights, automate tasks, and develop intelligent solutions.
+Combining my skills in data science, NLP, langchain and LLMs, I help organizations extract valuable insights, automate tasks, and develop intelligent solutions.
 
 * ✉️  You can contact me at [abdulqadirmagsi921@gmail.com](mailto:abdulqadirmagsi921@gmail.com)
 
