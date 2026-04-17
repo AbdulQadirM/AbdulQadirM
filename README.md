@@ -27,15 +27,62 @@ I focus on **turning complex AI concepts into production-ready systems** that de
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40"/>
+</a>
+
+<!-- AI / GenAI Stack -->
+
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
+</a>
+
+<a href="https://www.llamaindex.ai/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/136287842?s=200&v=4" width="40" height="40" alt="LlamaIndex"/>
+</a>
+
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40" alt="Pinecone"/>
+</a>
+
+<a href="https://www.trychroma.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/106714727?s=200&v=4" width="40" height="40" alt="Chroma"/>
+</a>
+
+<a href="https://milvus.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/40557000?s=200&v=4" width="40" height="40" alt="Milvus"/>
+</a>
+
 </p>
 
 ---
