@@ -1,7 +1,7 @@
 Hi 👋, I'm Abdul Qadir  
 ==================================================================
 
-🚀 AI Engineer | Generative AI and Agentic AI | nlp and computer vision
+🚀 AI Engineer | Generative AI and Agentic AI | Nlp and Computer vision
 ----------------------------------------------------------
 
 I design and build **scalable AI systems and intelligent applications** using modern Machine Learning and Generative AI technologies.
