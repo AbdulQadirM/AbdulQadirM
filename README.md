@@ -23,7 +23,6 @@ I focus on **turning complex AI concepts into production-ready systems** that de
 - 💼 LinkedIn: https://www.linkedin.com/in/AbdulQadir  
 - 🧠 Medium: http://www.medium.com/@abdulqadirmagsi921  
 
----
 
 ### 🛠️ Tech Stack
 
