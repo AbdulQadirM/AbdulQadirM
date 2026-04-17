@@ -56,7 +56,6 @@ I focus on **turning complex AI concepts into production-ready systems** that de
 </a>
 
 </p>
----
 
 ### 🧠 Core Expertise
 
